@@ -5,7 +5,7 @@ this prokect used for testing vue loader hmr which is not working for webpack la
 1. npm install --unsafe-perm
 2. npm start
 
-# repoduce steps
+# reproduce steps
 
 1. update and save template div content in src/pages/home/index.vue
 2. watch the dev console log(hmr info)
