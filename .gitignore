@@ -1,0 +1,16 @@
+build
+node_modules
+.cache
+.git
+.idea
+.tern-project
+assets.json
+npm-debug.log
+package-lock.json
+logs
+debug.log
+.DS_Store
+env.json
+cdn-settings.js
+appinfo.json
+yarn.lock
